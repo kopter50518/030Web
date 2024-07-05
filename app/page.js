@@ -1,5 +1,6 @@
 import Image from "next/image";
-
+import Slider1 from '@/public/food2.jpg'
+import Slider2 from '@/public/food3.jpg'
 export default function Home() {
   return (
     <>
@@ -47,8 +48,7 @@ export default function Home() {
     <img src="https://www.manga-news.com/public/images/dvd/Oshi_no_Ko_S1_anime.webp" className="card-img-top h-100" alt="..." />
   </div>
 </div>
-<Footer/>
     </>
   );
 }
->>>>>>> ecdf720 (Initial commit from Create Next App)
+

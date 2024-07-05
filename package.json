@@ -1,10 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "myapp",
-=======
-  "name": "myweb",
->>>>>>> ecdf720 (Initial commit from Create Next App)
-  "version": "0.1.0",
+"version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
