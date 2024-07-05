@@ -1,0 +1,14 @@
+.card {
+    border-radius: 15px; /* Adjust the value to your preference */
+    overflow: hidden; /* To ensure the image stays within the rounded corners */
+  }
+  
+  .card img {
+    border-radius: 15px;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+.card-custom:hover{
+    border: 3px solid red;
+}

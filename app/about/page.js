@@ -1,13 +1,9 @@
-import Link from 'next/link'
-export default function Home(){
+import Navbar from '@/component/navbar'
+import Footer from '@/component/footer'
+export default function About(){
   return(
-    <>
-    <h1><center>About Page</center></h1>
-    <br />
-    <center><Link href="/">Home</Link>| 
-    <Link href="/about">About </Link> | 
-    <Link href="/service">Service</Link>| 
-    <Link href="/contact">Contact</Link> </center>
-    </>
-  );
+   <>
+   <h1>About us</h1>
+   </> 
+  )
 }
