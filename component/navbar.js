@@ -8,7 +8,7 @@ export default function Navbar() {
             <BootstrapClient />
             <nav className="navbar navbar-expand-lg navbar-light bg-light d-flex">
                 <div className="container-fluid">
-                    <a className="navbar-brand fw-5" href="#">KoNgtaPZ</a>
+                    <a className="navbar-brand fw-5" href="#">KopTravel</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon" />
                     </button>
